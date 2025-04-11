@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Design Portfolio
-# email:
+title: Cassandra Cloud
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  "The portfolio of Cassandra Cloud"
-#twitter_username: username
-github_username: designbat
-minimal_mistakes_skin: splash
+  Write an awesome description for your new site here.
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -56,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cassandra Cloud"
+  name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I love design, psychology & spooky stuff. I connect organizations with transformational learning."
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://designbat.github.io/portfolio"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/designbat"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/designbatz"
+      url: "https://instagram.com/"
 
 footer:
   links:
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/designbat"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/designbatz"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
