@@ -1,7 +1,5 @@
 main:
-  - title: "Instructional Design"
-    url: /posts/
-  - title: "Project Management"
+  - title: "Projects"
     url: /tags/
   - title: "About"
     url: /about/
