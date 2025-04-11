@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: designbat
 minimal_mistakes_skin: dark
 search: true
+teaser: /assets/images/500x300.png
 
 # Build settings
 markdown: kramdown
